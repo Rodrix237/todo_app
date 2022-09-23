@@ -1,16 +1,25 @@
 # todoapp
 
-A new Flutter project.
+todoapp est une application de suivi de ses taches quotidienne afin d'accroite votre productivité
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ceci est un point de départ de l'application Mobile Android todoapp developpé à l'aide du SDK Flutter et le langage Dart.
+- Flutter 3.3.2
+- Dart 2.18.1
 
-A few resources to get you started if this is your first Flutter project:
+## Useful resources
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Quelques ressources pour vous aider à démarrer s'il s'agit de votre premier projet Flutter:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Labo: Écrivez votre première application Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Tuto: exemples utiles de Flutter](https://flutter.dev/docs/cookbook)
+
+- [Chaine Youtube: exemples et tutos Francophone](https://www.youtube.com/c/DrissAS)
+- [Chaine Youtube: exemples et tutos Anglophone](https://www.youtube.com/c/JohannesMilke)
+
+- [Formation: formation Flutter pertinente udemy.com](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+Pour obtenir de l'aide pour démarrer avec Flutter, consultez la documentation:
+[documents en ligne](https://flutter.dev/docs), qui propose des tutoriels,
+des exemples, des conseils sur le développement mobile et une référence API complète.
