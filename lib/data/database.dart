@@ -10,8 +10,8 @@ class TaskDataBase {
   //Si c'est la 1ere fois d'ouvrir l'application
   void createInitialData() {
     taskList = [
-      ["Appeler le dentiste", false],
-      ["Préparer le meeting de demain", false],
+      ["Touchez et glissez vers la gauche pour supprimer cette tâche", false],
+      ["Validez le Checkbox pour marquer cette tâche comme réalisée", false],
     ];
   }
 
